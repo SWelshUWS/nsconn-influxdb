@@ -14,7 +14,7 @@ def influxFormat(obj):
   #access elements in the object
   
  # this was disabled as rawwav is massively slowing down the
- # script due to the high volumen of objects
+ # script due to the high volume of objects
  # uncomment at your own peril
  # if "raweegpower" in pythonObj:
   #  rawwav = pythonObj['raweegpower']
